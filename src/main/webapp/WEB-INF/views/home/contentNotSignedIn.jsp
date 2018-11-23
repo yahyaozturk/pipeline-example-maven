@@ -2,7 +2,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 
 <div id="intro">
-	<h2>Welcome to the DevOps Zirvesi -- Great Feature as well!</h2>
+	<h2>Welcome to the DevOps Zirvesi -- Arif Feature!</h2>
 	<p>
 		We make it fun to be an application developer.
 	</p>
