@@ -11,4 +11,4 @@ src/main/webapp/META-INF
 *.ipr
 *.iws
 *.idea
-attendees.csv
+attendees.csvresults/
