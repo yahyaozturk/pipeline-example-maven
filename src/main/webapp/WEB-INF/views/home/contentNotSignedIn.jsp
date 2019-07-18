@@ -2,7 +2,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 
 <div id="intro">
-	<h2>Welcome to the Greenhouse - MK Kanopex 2 16.46</h2>
+	<h2>Welcome to the Greenhouse - Vinil</h2>
 	<p>
 		We make it fun to be an application developer.
 	</p>
