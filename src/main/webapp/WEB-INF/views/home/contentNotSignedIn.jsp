@@ -3,7 +3,7 @@
 
 <div id="intro">
 	<p>
-		We make it fun to be an application developer.
+		We make it fun to be an application developer. Giuseppe likes it. 
 	</p>
 	<p>
 		We help you connect with fellow developers and take advantage of everything the Spring community has to offer.	
